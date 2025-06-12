@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-02-05 12:00
+date: 2025-02-28 15:00
 inline: true
 related_posts: false
 ---
 
-Website is up!
+Presented my paper Epistemic Bellman Operators at AAAI'25 as an oral presentation!

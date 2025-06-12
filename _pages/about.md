@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Delft University of Technology</a>
+subtitle: <a href='https://www.tudelft.nl/en/'>Delft University of Technology</a>
 profile:
   align: right
   image: pascal.jpg
@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in machine learning at the [Sequential Decision Making group](https://research.tudelft.nl/en/organisations/sequential-decision-making) at the Delft University of Technology. My research is on reinforcement learning, where agents learn by interacting with their environment to maximize long-term rewards. In this area I focus on uncertainty quantification and efficient exploration, mainly through Bayesian methods. Other research interests include Bayesian neural networks, generative models and Monte Carlo samplers.
+I'm a PhD student in machine learning at the [Sequential Decision Making group](https://research.tudelft.nl/en/organisations/sequential-decision-making) at the Delft University of Technology in the Netherlands. My research is on reinforcement learning, where agents learn by interacting with their environment to maximize long-term rewards. In this area I focus on uncertainty quantification and efficient exploration, mainly through Bayesian methods. Other research interests include Bayesian neural networks, generative models and Monte Carlo samplers.
 
 Outside of research I enjoy hiking, tinkering with microelectronics, 3D printing and specialty coffee.

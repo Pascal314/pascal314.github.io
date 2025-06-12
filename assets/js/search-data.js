@@ -16,29 +16,31 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "This page is work in progress.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-curriculum-vitae",
           title: "curriculum vitae",
-          description: "This page is work in progress. Download the PDF for my (slightly outdated) CV.",
+          description: "Download the PDF for my CV.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "This page is work in progress.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "news-website-is-up",
-          title: 'Website is up!',
+        },{id: "news-presented-my-work-bayesian-ensembles-for-exploration-in-deep-q-learning-as-a-poster-at-aamas-24-and-oral-presentation-at-ala-24",
+          title: 'Presented my work “Bayesian Ensembles for Exploration in Deep Q-learning” as a poster...',
+          description: "",
+          section: "News",},{id: "news-my-paper-epistemic-bellman-operators-has-been-accepted-at-aaai-25",
+          title: 'My paper Epistemic Bellman Operators has been accepted at AAAI’25!',
+          description: "",
+          section: "News",},{id: "news-presented-my-paper-epistemic-bellman-operators-at-aaai-25-as-an-oral-presentation",
+          title: 'Presented my paper Epistemic Bellman Operators at AAAI’25 as an oral presentation!',
+          description: "",
+          section: "News",},{id: "news-reviewing-five-papers-for-neurips-2025",
+          title: 'Reviewing five papers for Neurips 2025.',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -59,7 +61,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/pascal-v-8a0344209", "_blank");
+          window.open("https://www.linkedin.com/in/pascalvandervaart", "_blank");
         },
       },{
         id: 'social-scholar',
